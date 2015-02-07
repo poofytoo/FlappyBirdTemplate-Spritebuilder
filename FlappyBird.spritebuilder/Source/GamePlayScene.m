@@ -20,6 +20,8 @@
         [self addObstacle];
         timeSinceObstacle = 0.0f;
     }
+    
+    
 }
 
 - (void)touchBegan:(CCTouch *)touch withEvent:(CCTouchEvent *)event {
